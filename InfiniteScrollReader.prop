@@ -1,0 +1,6 @@
+segmentGap 15
+paragraphGap 150
+startMaxFontSizeArea 0.4
+endMaxFontSizeArea 0.6
+minFontSize 5
+#direction vertical

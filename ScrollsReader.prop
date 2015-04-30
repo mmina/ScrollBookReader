@@ -1,0 +1,10 @@
+#width 640
+#height 1136
+segmentGap 15
+paragraphGap 150
+startMaxFontSizeArea 0.4
+endMaxFontSizeArea 0.6
+maxFontSize 32
+minFontSize 5
+direction horizontal
+numPanels 5
